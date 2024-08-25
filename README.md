@@ -107,4 +107,4 @@
 
 Congratulations! You've successfully set up a Domain Controller and Client VM in Azure, configured network settings, and installed Active Directory. You also created and managed user accounts and ensured connectivity and remote access.
 
-By following these steps, you’ve established a fundamental Active Directory environment for managing network resources and users. This setup provides a solid foundation for further configurations and integrations as you continue to develop and maintain your IT infrastructure.
+You’ve also gain a fundamental Active Directory environment for managing network resources and users. This setup is a solid foundation for further configurations and integrations as you continue to develop and maintain your IT infrastructure.
